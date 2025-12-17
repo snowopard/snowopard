@@ -23,6 +23,7 @@ I’m comfortable working across the stack, but my strength is in backend archit
     The UI is used as a tool to reason about backend systems, not as the primary focus.
 
 🛠️ Technical Stack (Representative)
+    
     Backend
     REST API design
     OAuth 2.0 / JWT
